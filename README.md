@@ -7,6 +7,7 @@
 - Go build
 
   `Go build src/main.go`
+  `./main`
 
 - Go run
 
